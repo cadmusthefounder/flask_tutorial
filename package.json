@@ -1,0 +1,23 @@
+{
+  "name": "flask_tutorial",
+  "version": "1.0.0",
+  "description": "Flask tutorial for beginners.",
+  "scripts": {
+    "commit": "commit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cadmusthefounder/flask_tutorial.git"
+  },
+  "author": "Charlton Lim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cadmusthefounder/flask_tutorial/issues"
+  },
+  "homepage": "https://github.com/cadmusthefounder/flask_tutorial#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "@commitlint/prompt-cli": "^8.3.5"
+  }
+}
