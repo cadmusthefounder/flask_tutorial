@@ -19,7 +19,7 @@ module.exports = {
     'scope-enum': [2, 'always', [
         'root',
         'server',
-        'model'
+        'db'
       ]
     ]
   }
