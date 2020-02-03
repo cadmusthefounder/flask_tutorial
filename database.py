@@ -44,7 +44,7 @@ class Database:
         self._session = self._Session()
 
     def disconnect(self):
-        if self._session is not None:
+        if self._session:
             self._session.commit()
             self._session.close()
             self._session = None
