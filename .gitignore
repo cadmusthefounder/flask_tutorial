@@ -246,3 +246,4 @@ dmypy.json
 
 *venv
 .vscode
+lambd.db
